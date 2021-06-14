@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="131.13mm" height="38.424mm" version="1.1" viewBox="0 0 131.13 38.424" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <clipPath id="clipPath834">
+   <rect transform="matrix(.97784 .20936 .0042253 .99999 0 0)" x="91.89" y="85.601" width="65.155" height="50.317" fill="#1800ff" fill-opacity=".33488"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(.023809 -138.29)" fill-opacity=".33488">
+  <rect transform="matrix(.97681 -.2141 -.0041274 .99999 -48.759 34.585)" x="7.4047" y="137.26" width="134.21" height="9.691" clip-path="url(#clipPath834)" fill="#18b1ff"/>
+  <rect transform="matrix(.97681 -.2141 -.0041274 .99999 0 0)" x=".72296" y="167.18" width="134.21" height="9.691" fill="#1800ff"/>
+ </g>
+</svg>
